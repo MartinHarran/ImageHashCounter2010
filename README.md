@@ -1,4 +1,4 @@
 ImageHashCounter2010
 ====================
 
-Cretaed in Visual Studio 2010
+Created in Visual Studio 2010
